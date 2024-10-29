@@ -1,3 +1,16 @@
+<h1 align="center">Hi 👋, I'm Vinz</h1>
+<h3 align="center">Minecraft and Discord Developer</h3>
+
+- 🔭 I’m currently working on **---------**
+
+- 🌱 I’m currently learning **Python (Discord PY)**
+
+- ⚡ Minecraft: **Paper-API | Velocity-API**
+
+- 👨‍💻 Discord: **Discord JDA | Discord PY**
+
+- 📫 How to reach me **Discord: vinz564**
+
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 # 📊 GitHub Stats:
