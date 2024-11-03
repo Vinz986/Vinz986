@@ -4,9 +4,8 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on:  **Projekt Neo**
-- 🌱 I’m currently learning:  **Python (Discord PY)**
-- ⚡ Minecraft:  **Paper-API | Velocity-API**
-- 👨‍💻 Discord:  **Discord JDA | Discord PY**
+- 🌱 I’m currently learning:  **Python**
+- ⚡ Development:  **Paper-API | Velocity-API | Discord JDA**
 - 📫 How to reach me:  **Discord: vinz564**
 
 
