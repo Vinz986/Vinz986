@@ -3,7 +3,11 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on:  **Projekt Neo**<br><br>- 🌱 I’m currently learning:  **Python (Discord PY)**<br><br>- ⚡ Minecraft:  **Paper-API | Velocity-API**<br><br>- 👨‍💻 Discord:  **Discord JDA | Discord PY**<br><br>- 📫 How to reach me:  **Discord: vinz564**
+- 🔭 I’m currently working on:  **Projekt Neo**
+- 🌱 I’m currently learning:  **Python (Discord PY)**
+- ⚡ Minecraft:  **Paper-API | Velocity-API**
+- 👨‍💻 Discord:  **Discord JDA | Discord PY**
+- 📫 How to reach me:  **Discord: vinz564**
 
 
 # 💻 Tech Stack:
