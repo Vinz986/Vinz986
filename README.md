@@ -2,7 +2,7 @@
 <h3 align="center">Minecraft and Discord Developer</h3>
 
 
-- 🔭 I’m currently working on **---------**
+- 🔭 I’m currently working on **Projekt Neo**
 
 - 🌱 I’m currently learning **Python (Discord PY)**
 
