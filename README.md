@@ -14,6 +14,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vinz986&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinz986&&layout=donut-vertical)](https://github.com/Vinz986&/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
