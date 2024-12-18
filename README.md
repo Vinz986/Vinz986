@@ -12,8 +12,6 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vinz986&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinz986&&layout=donut-vertical&theme=github_dark&hide_border=true)](https://github.com/Vinz986&/github-readme-stats)
 
 ### ✍️ Random Dev Quote
