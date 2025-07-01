@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on:  **Projekt Neo**
-- 🌱 I’m currently learning:  **Python**
+- 🌱 I’m currently learning:  
 - ⚡ Development:  **Paper-API | Velocity-API | Discord JDA**
 - 📫 How to reach me:  **Discord: enderneo**
 
