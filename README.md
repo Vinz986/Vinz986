@@ -5,9 +5,8 @@
 </a>
 
 ## Contact
-- **Email**: me@giqnt.dev
-- **Discord**: giqnt
-<a href="https://discord.com/users/454927000490999809">
+- **Discord**: enderneo
+<a href="https://discord.com/users/931561038019698689">
   <img src="https://lanyard.cnrad.dev/api/454927000490999809?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
 </a>
 
