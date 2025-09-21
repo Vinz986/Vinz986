@@ -1,25 +1,30 @@
-<h1 align="center">Hi 👋, I'm Vinz</h1>
-<h3 align="center">Java Developer</h3>
-
-
-# 💫 About Me:
-- 🔭 I’m currently working on:  **Projekt EcoRealms**
-- 🌱 I’m currently learning:  
-- ⚡ Development:  **Paper-API | Velocity-API | Discord JDA**
-- 📫 How to reach me:  **Discord: enderneo**
-
-
-## Contact
-- **Discord**: giqnt
-<a href="https://discord.com/users/931561038019698689">
-  <img src="https://lanyard.cnrad.dev/api/931561038019698689?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
+<a href="https://skillicons.dev">
+  <img height=40 src="https://skillicons.dev/icons?i=js,ts,nodejs,java,kotlin,python,c,cpp,html,css,tailwind,php" />
+  <br />
+  <img height=40 src="https://skillicons.dev/icons?i=aws,nginx,git,github,vscode,idea,vim,docker,kubernetes,mysql,mongodb,postgres" />
 </a>
 
+## Contact
+- **Email**: me@giqnt.dev
+- **Discord**: giqnt
+<a href="https://discord.com/users/454927000490999809">
+  <img src="https://lanyard.cnrad.dev/api/454927000490999809?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
+</a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
-# 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinz986&&layout=donut-vertical&theme=github_dark&hide_border=true)](https://github.com/Vinz986&/github-readme-stats)
+## Github Stats
+<a href="https://git.io/streak-stats">
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=giqnt&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=giqnt"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height=200 alt="GitHub Streak" />
+  </picture>
+</a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
