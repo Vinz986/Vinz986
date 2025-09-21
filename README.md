@@ -1,7 +1,7 @@
 <a href="https://skillicons.dev">
-  <img height=40 src="https://skillicons.dev/icons?i=js,ts,nodejs,java,kotlin,python,c,cpp,html,css,tailwind,php" />
+  <img height=40 src="https://skillicons.dev/icons?i=js,java,kotlin,python,html,css" />
   <br />
-  <img height=40 src="https://skillicons.dev/icons?i=aws,nginx,git,github,vscode,idea,vim,docker,kubernetes,mysql,mongodb,postgres" />
+  <img height=40 src="https://skillicons.dev/icons?i=aws,nginx,git,github,vscode,idea,mysql,redis" />
 </a>
 
 ## Contact
