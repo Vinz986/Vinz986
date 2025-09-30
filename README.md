@@ -5,9 +5,9 @@
 </a>
 
 ## Contact
-- **Discord**: enderneo
-<a href="https://discord.com/users/931561038019698689">
-  <img src="https://lanyard.cnrad.dev/api/931561038019698689?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
+- **Discord**: dev0one
+<a href="https://discord.com/users/0000">
+  <img src="https://lanyard.cnrad.dev/api/0000?showDisplayName=true&idleMessage=Doin'%20nothing%20special%20rn%20:P">
 </a>
 
 ## Github Stats
