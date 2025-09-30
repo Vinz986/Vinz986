@@ -1,5 +1,7 @@
 <a href="https://skillicons.dev">
-  <img height=40 src="https://skillicons.dev/icons?i=js,java,kotlin,python,html,css,yaml" />
+  <img height=40 src="https://skillicons.dev/icons?i=discord,spotify" />
+  <br />
+  <img height=40 src="https://skillicons.dev/icons?i=js,java,kotlin,python,html,css" />
   <br />
   <img height=40 src="https://skillicons.dev/icons?i=nginx,git,github,vscode,idea,webstorm,pycharm,mysql,redis" />
 </a>
